@@ -1,4 +1,4 @@
 package com.khanh.springsecurity.controllers;
 
-public class test {
+public class UserController {
 }
