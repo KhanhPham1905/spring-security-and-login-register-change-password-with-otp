@@ -1,6 +1,14 @@
 server:
   port: 8080
 
+springdoc:
+  api-docs:
+    enabled: true
+    path: /api-docs
+  swagger-ui:
+    enabled: true
+    path: /docs
+
 spring:
   application:
     name: springsecurity
